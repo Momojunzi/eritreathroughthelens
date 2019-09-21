@@ -2,6 +2,10 @@
   "name": "fitsum-client",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.6.0",
+    "yarn": "1.17.3"
+  },
   "dependencies": {
     "aphrodite": "^2.4.0",
     "bootstrap": "^4.3.1",
